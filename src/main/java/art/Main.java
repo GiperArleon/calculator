@@ -6,8 +6,8 @@ import org.apache.commons.logging.LogFactory;
 
 public class Main {
     private static final Log LOGGER = LogFactory.getLog(Main.class);
-    public static final String VERSION = "1.0003";
-    public static final String DATE = "22.01.2022";
+    public static final String VERSION = "1.0004";
+    public static final String DATE = "10.10.2026";
 
     public static void main(String[] args) {
         LOGGER.info("* * *");
